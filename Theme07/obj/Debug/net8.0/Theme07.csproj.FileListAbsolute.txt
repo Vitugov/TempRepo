@@ -1,0 +1,15 @@
+D:\Docs\GitRepository\Theme07\bin\Debug\net8.0\Theme07.exe
+D:\Docs\GitRepository\Theme07\bin\Debug\net8.0\Theme07.deps.json
+D:\Docs\GitRepository\Theme07\bin\Debug\net8.0\Theme07.runtimeconfig.json
+D:\Docs\GitRepository\Theme07\bin\Debug\net8.0\Theme07.dll
+D:\Docs\GitRepository\Theme07\bin\Debug\net8.0\Theme07.pdb
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.AssemblyInfoInputs.cache
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.AssemblyInfo.cs
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.csproj.CoreCompileInputs.cache
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.sourcelink.json
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.dll
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\refint\Theme07.dll
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.pdb
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\Theme07.genruntimeconfig.cache
+D:\Docs\GitRepository\Theme07\obj\Debug\net8.0\ref\Theme07.dll
