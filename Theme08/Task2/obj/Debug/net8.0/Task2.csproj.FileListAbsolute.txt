@@ -1,0 +1,15 @@
+D:\Docs\GitRepository\Theme08\Task2\bin\Debug\net8.0\Task2.exe
+D:\Docs\GitRepository\Theme08\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Docs\GitRepository\Theme08\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Docs\GitRepository\Theme08\Task2\bin\Debug\net8.0\Task2.dll
+D:\Docs\GitRepository\Theme08\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.dll
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Docs\GitRepository\Theme08\Task2\obj\Debug\net8.0\ref\Task2.dll
