@@ -1,0 +1,73 @@
+[
+  {
+    "Key": {
+      "$type": "Task01.Model.Data.Client, Task01",
+      "Surname": "Филатов",
+      "Name": "Иван",
+      "Patronymic": "Васильевич",
+      "TelephoneNumber": "+79138524682",
+      "PassportSeriesNumber": "2305 564127"
+    },
+    "Value": [
+      {
+        "$type": "Task01.Model.Data.Edit, Task01",
+        "DateTime": "2024-02-13T17:26:06.3330365+01:00",
+        "ChangedData": "PassportSeriesNumber",
+        "TypeOfChanges": "Объект изменен",
+        "Author": "Балаганов Олег Васильевич (Manager)"
+      }
+    ]
+  },
+  {
+    "Key": {
+      "$type": "Task01.Model.Data.Client, Task01",
+      "Surname": "Ашурков",
+      "Name": "Игнат",
+      "Patronymic": "Семенович",
+      "TelephoneNumber": "+79139417844",
+      "PassportSeriesNumber": "5678 698743"
+    },
+    "Value": [
+      {
+        "$type": "Task01.Model.Data.Edit, Task01",
+        "DateTime": "2024-02-13T17:26:14.2615397+01:00",
+        "ChangedData": "TelephoneNumber, PassportSeriesNumber",
+        "TypeOfChanges": "Объект изменен",
+        "Author": "Балаганов Олег Васильевич (Manager)"
+      },
+      {
+        "$type": "Task01.Model.Data.Edit, Task01",
+        "DateTime": "2024-02-13T17:26:26.1132261+01:00",
+        "ChangedData": "",
+        "TypeOfChanges": "Объект изменен",
+        "Author": "Балаганов Олег Васильевич (Manager)"
+      }
+    ]
+  },
+  {
+    "Key": {
+      "$type": "Task01.Model.Data.Client, Task01",
+      "Surname": "Конев",
+      "Name": "Геннадий",
+      "Patronymic": "Валентинович",
+      "TelephoneNumber": "+79124567898",
+      "PassportSeriesNumber": "7896 123456"
+    },
+    "Value": [
+      {
+        "$type": "Task01.Model.Data.Edit, Task01",
+        "DateTime": "2024-02-13T18:16:35.0681527+01:00",
+        "ChangedData": "",
+        "TypeOfChanges": "Объект создан",
+        "Author": "Балаганов Олег Васильевич (Manager)"
+      },
+      {
+        "$type": "Task01.Model.Data.Edit, Task01",
+        "DateTime": "2024-02-13T18:17:12.3008951+01:00",
+        "ChangedData": "Surname, Name, Patronymic, TelephoneNumber, PassportSeriesNumber",
+        "TypeOfChanges": "Объект изменен",
+        "Author": "Балаганов Олег Васильевич (Manager)"
+      }
+    ]
+  }
+]

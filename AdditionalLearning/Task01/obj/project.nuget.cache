@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbhI06IDxFefg7eVGUYg1YUlfXr+a+OMUFm0DhYyVIvZ6ub2UJo/sfkMZLOJyCmMVqDHjwHw0W+hXFjUQnmGkA==",
+  "success": true,
+  "projectFilePath": "D:\\Docs\\GitRepository\\AdditionalLearning\\Task01\\Task01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvitu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mvitu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

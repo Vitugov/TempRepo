@@ -1,0 +1,42 @@
+﻿<Window x:Class="Task01.View.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task01.View"
+        xmlns:vm="clr-namespace:Task01.ViewModel"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="150" Width="300">
+    <Window.DataContext>
+        <vm:AuthorizationViewModel x:Name="ViewModel" />
+    </Window.DataContext>
+    <Grid>
+        <StackPanel>
+            <ComboBox
+                HorizontalAlignment="Stretch"
+                Margin="5" VerticalAlignment="Top"
+                ItemsSource="{Binding UserDic.Keys}"
+                SelectedItem="{Binding SelectedUser, Mode=TwoWay}"/>
+            <StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Button
+                        Height="22"
+                        Margin="5"
+                        Content="Отмена"
+                        Command="{Binding Cancel}"/>
+                    <Button
+                        Grid.Column="1"
+                        Height="22"
+                        Margin="5"
+                        Content="Войти"
+                        Command="{Binding Login}"
+                        CommandParameter="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}}"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
